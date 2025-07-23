@@ -22,5 +22,4 @@ A responsive and semantic landing page inspired by the “B&O” design from my 
 
 ## 🚀 Try it live
 
-**Demo**: [YOUR_LIVE_LINK_HERE]  
-**Repository**: [github.com/your-account/bo-landing](#)
+**Demo**: [(https://lidiia-tsymborovych.github.io/Bang-and-Olufsen-landing-page/)]  
