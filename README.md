@@ -17,6 +17,18 @@ A responsive and semantic landing page inspired by the Bang & Olufsen design. Bu
 - Git & GitHub
 - GitHub Pages (deployment)
 
+## ✨ Features
+
+Responsive design for desktop and mobile
+
+Semantic HTML structure for accessibility & SEO
+
+Modular SCSS files for clean code organization
+
+Clean deployment via GitHub Pages
+
+Follows modern frontend development practices
+
 ## 🚀 Getting Started
 
 To run the project locally, follow these steps:
@@ -24,8 +36,8 @@ To run the project locally, follow these steps:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/lidiia-tsymborovych/Creative-Backery-landing-page.git
-cd Creative-Backery-landing-page
+git clone https://github.com/lidiia-tsymborovych/bang-and-olufsen-landing-page.git
+cd bang-and-olufsen-landing-page
 ```
 
 2. Install dependencies
@@ -40,30 +52,5 @@ npm start
 or
 yarn start
 ```
-
-4. Lint the code
-```bash
-npm run lint
-```
-
-5. Build for production
-```bash
-npm run build
-```
-
-6. Deploy to GitHub Pages
-```bash
-npm run deploy
-```
-## ✨ Features
-Responsive design for desktop and mobile
-
-Semantic HTML structure for accessibility & SEO
-
-Modular SCSS files for clean code organization
-
-Clean deployment via GitHub Pages
-
-Follows modern frontend development practices
 
 
