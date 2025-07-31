@@ -4,7 +4,7 @@ A responsive and semantic landing page inspired by the Bang & Olufsen design. Bu
 
 ## 🔗 Live Preview
 
-[Live Demo](https://lidiia-tsymborovych.github.io/Bang-and-Olufsen-landing-page/)  
+[Live Demo](https://lidiia-tsymborovych.github.io/bang-and-olufsen-landing-page/)  
 
 ## 🎨 Design Reference
 
