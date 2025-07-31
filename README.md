@@ -1,45 +1,69 @@
 # B&O-Inspired Landing Page
 
-A responsive and semantic landing page inspired by the “B&O” design from my Frontend course. Built with **HTML5**, **SCSS**, and deployed via **GitHub Pages** (or Netlify/Vercel).
+A responsive and semantic landing page inspired by the Bang & Olufsen design. Built with **HTML5** and **SCSS**, this project demonstrates clean structure, accessibility, and responsive layout.
 
-# Project Details
+## 🔗 Live Preview
 
-- **Design Choice**: B&O landing layout from course materials
-- **Tech Stack**: HTML5, SCSS (main.scss), CSS
-- **Approach**:
-  - Built the page block by block following the lesson videos
-  - Implemented relative `background-image: url()` paths for assets
-  - Ensured semantic structure and responsive design
-  - Used a checklist to guide elements and layout instead of pixel-perfect fidelity
-  - Deployed and created a Pull Request with a live demo link
+[Live Demo](https://lidiia-tsymborovych.github.io/Bang-and-Olufsen-landing-page/)  
 
-# Features
+## 🎨 Design Reference
 
-- Responsive layout across desktop and mobile
-- Well-organized SCSS structure using modular files
-- Semantic HTML tags for accessibility and SEO
-- Seamless deployment with version control and PR workflow
+[Figma Design](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0)
 
-# Setup & Running the Project
-Clone the repository:
-git clone <your_repository_address>
+## 🛠️ Technologies Used
 
-Navigate to the project directory:
-cd creative-bakery-landing-page
+- HTML5
+- SCSS (modular structure)
+- Git & GitHub
+- GitHub Pages (deployment)
 
-Install dependencies:
-npm install
+## 🚀 Getting Started
 
-Start the project:
+To run the project locally, follow these steps:
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/lidiia-tsymborovych/Creative-Backery-landing-page.git
+cd Creative-Backery-landing-page
+```
+
+2. Install dependencies
+```bash
+npm install # or yarn
+```
+
+3. Start development server
+```bash
 npm start
 
-Development & Deployment
-All code is located in the src folder.
+or
+yarn start
+```
 
-Linting: Check code for style consistency: npm run lint.
+4. Lint the code
+```bash
+npm run lint
+```
 
-Deployment to GitHub Pages: npm run deploy.
+5. Build for production
+```bash
+npm run build
+```
 
-#Try it live
+6. Deploy to GitHub Pages
+```bash
+npm run deploy
+```
+## ✨ Features
+Responsive design for desktop and mobile
 
-**Demo**: [(https://lidiia-tsymborovych.github.io/Bang-and-Olufsen-landing-page/)]  
+Semantic HTML structure for accessibility & SEO
+
+Modular SCSS files for clean code organization
+
+Clean deployment via GitHub Pages
+
+Follows modern frontend development practices
+
+
